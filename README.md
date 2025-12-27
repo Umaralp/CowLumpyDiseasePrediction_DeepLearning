@@ -57,13 +57,12 @@ The model achieved promising results on the validation set, with a specific focu
 | **Recall (Sensitivity)** | **High Priority** |
 | **Precision** | Balanced |
 
-*(You can add your specific Confusion Matrix image here if you have one)*
 
 ## 💻 Installation & Usage
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/lumpy-skin-disease-detection.git](https://github.com/yourusername/lumpy-skin-disease-detection.git)
+    git clone [https://github.com/Umaralp/CowLumpyDiseasePrediction_DeepLearning.git](https://github.com/Umaralp/CowLumpyDiseasePrediction_DeepLearning.git)
     cd lumpy-skin-disease-detection
     ```
 
